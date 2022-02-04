@@ -2,7 +2,7 @@
 
 All lists are still being filled.
 
-# porn.txt
+# explicit.txt
 Included websites hosted or embedded images and/or videos depicting nudity or sex.
 
 # proxy.txt
